@@ -7,6 +7,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/spaceromero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spaceromero" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rakshith vaishnavi dogra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshith vaishnavi dogra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rakshith-vaishnavi-dogra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshith vaishnavi dogra" height="30" width="40" /></a>
 </p>
 
